@@ -18,9 +18,10 @@
 
 **Location:** ![Location](https://img.shields.io/badge/Location-São%20Paulo%2C%20Brasil-blue)
 
-**Site** [Website](https://seusite.com)
+**Site:** [Website](https://seusite.com)
 
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=P2FU2&show_icons=true&theme=radical)
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=P2FU2&show_icons=true&theme=dark)
+[![Pedro's GitHub Streak](https://streak-stats.demolab.com/?user=P2FU2&theme=dark)](https://git.io/streak-stats)
 
 ## Tecnologias & Ferramentas
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
