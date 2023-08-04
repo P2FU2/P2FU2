@@ -7,6 +7,15 @@
 🧩 In my free time, you'll find me working on new software creations, fine-tuning economic models, or diving into data analysis to discover interesting insights.
 
 📫 Want to collaborate or simply chat about tech or economics? Don't hesitate to reach out! The best way to connect with me is through LinkedIn.
+
+## Contact Info
+
+**LinkedIn:** [Pedro Neves](https://www.linkedin.com/in/pedrqneves/)
+
+**E-mail:** [pedroqneves14@gmail.com](mailto:seunome@exemplo.com)
+
+**Location:** Sao Paulo, Sao Paulo, Brazil
+
 <!---
 P2FU2/P2FU2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
