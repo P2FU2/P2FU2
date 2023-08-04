@@ -14,7 +14,18 @@
 
 **E-mail:** [pedroqneves14@gmail.com](mailto:seunome@exemplo.com)
 
-**Location:** Sao Paulo, Sao Paulo, Brazil
+**Location:** ![Location](https://img.shields.io/badge/Location-São%20Paulo%2C%20Brasil-blue)
+
+![Estatísticas do GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=seu_nome_de_usuário&show_icons=true&theme=radical)
+
+## Tecnologias & Ferramentas
+![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+
+## Alguns dos meus projetos
+- [Nome do projeto](link_para_o_projeto) - Descrição breve do projeto.
+
+Confira meu [Website](https://seusite.com)
 
 <!---
 P2FU2/P2FU2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
