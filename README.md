@@ -20,6 +20,8 @@
 
 **Site:** [Website](https://seusite.com)
 
+## Some Stats
+
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=P2FU2&show_icons=true&theme=dark)
 [![Pedro's GitHub Streak](https://streak-stats.demolab.com/?user=P2FU2&theme=dark)](https://git.io/streak-stats)
 
